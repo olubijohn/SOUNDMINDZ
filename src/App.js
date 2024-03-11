@@ -121,7 +121,7 @@ function App() {
               <div className="carousel-caption">
                 <h2>Discover the beauty of photography</h2>
                 <a
-                  href="https://www.instagram.com/_itz_ap_editography/"
+                  // href="https://www.instagram.com/_itz_ap_editography/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -146,7 +146,7 @@ function App() {
                   Never sacrifice three things: family, love, and Photography
                 </h2>
                 <a
-                  href="https://www.instagram.com/_itz_ap_editography/"
+                  // href="https://www.instagram.com/_itz_ap_editography/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -173,7 +173,7 @@ function App() {
                   camera angles.
                 </h2>
                 <a
-                  href="https://www.instagram.com/_itz_ap_editography/"
+                  // href="https://www.instagram.com/_itz_ap_editography/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
